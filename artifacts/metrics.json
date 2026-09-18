@@ -1,0 +1,17 @@
+{
+  "models": {
+    "Decision Tree Regressor": {
+      "MAE": 0.506914,
+      "MSE": 0.435915,
+      "RMSE": 0.660239,
+      "R2": 0.332959
+    },
+    "Random Forest Regressor": {
+      "MAE": 0.429716,
+      "MSE": 0.311323,
+      "RMSE": 0.557963,
+      "R2": 0.523612
+    }
+  },
+  "best_model": "Random Forest Regressor"
+}
